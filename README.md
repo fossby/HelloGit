@@ -1,2 +1,2 @@
-# HelloGit
+# learngit
 learngit
